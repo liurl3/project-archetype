@@ -52,10 +52,4 @@
     </developer>
   </developers>
 
-  <scm>
-    <connection>scm:git:https://github.com/digiwes/wes-parent.git/demo-manager</connection>
-    <developerConnection>scm:git:https://github.com/digiwes/wes-parent.git/demo-manager</developerConnection>
-    <url>https://github.com/digiwes/wes-parent.git/demo-manager</url>
-  </scm>
-
 </project>
