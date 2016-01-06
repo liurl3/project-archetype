@@ -4,31 +4,31 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <requiredProperties>
     <requiredProperty key="componentName" >
-      <defaultValue/>
+      <defaultValue>Digiwes component name</defaultValue>
     </requiredProperty>
 	<requiredProperty key="componentDescription" >
-      <defaultValue/>
+      <defaultValue>Digiwes component description</defaultValue>
     </requiredProperty>
 	<requiredProperty key="featureName" >
-      <defaultValue/>
+      <defaultValue>Digiwes feature name</defaultValue>
     </requiredProperty>
 	<requiredProperty key="repositoryName" >
-      <defaultValue/>
+      <defaultValue>Digiwes repository name</defaultValue>
     </requiredProperty>
 	<requiredProperty key="projectName" >
-      <defaultValue/>
+      <defaultValue>Digiwes project name</defaultValue>
     </requiredProperty>
 	<requiredProperty key="projectDescription" >
-      <defaultValue/>
+      <defaultValue>Digiwes project description</defaultValue>
     </requiredProperty>
 	<requiredProperty key="parentGroupId" >
-      <defaultValue/>
+      <defaultValue>com.digiwes</defaultValue>
     </requiredProperty>
-	<requiredProperty key="parentArtifactId" >
-      <defaultValue/>
+		<requiredProperty key="parentArtifactId" >
+      <defaultValue>wes-base-parent</defaultValue>
     </requiredProperty>
 	<requiredProperty key="parentVersion" >
-      <defaultValue/>
+      <defaultValue>0.1-SNAPSHOT</defaultValue>
     </requiredProperty>
   </requiredProperties>
   <fileSets>
