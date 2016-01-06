@@ -31,6 +31,11 @@
 
     <dependencyManagement>
         <dependencies>
+			<dependency>
+				<groupId>org.apache.felix</groupId>
+				<artifactId>org.apache.felix.scr.annotations</artifactId>
+				<version>${scr.annotations.version}</version>
+			</dependency>
         </dependencies>
     </dependencyManagement>
     <build>

@@ -21,6 +21,15 @@
 	<requiredProperty key="projectDescription" >
       <defaultValue/>
     </requiredProperty>
+	<requiredProperty key="parentGroupId" >
+      <defaultValue/>
+    </requiredProperty>
+	<requiredProperty key="parentArtifactId" >
+      <defaultValue/>
+    </requiredProperty>
+	<requiredProperty key="parentVersion" >
+      <defaultValue/>
+    </requiredProperty>
   </requiredProperties>
   <fileSets>
     <fileSet encoding="UTF-8">
