@@ -25,7 +25,7 @@
       <defaultValue>com.digiwes</defaultValue>
     </requiredProperty>
 		<requiredProperty key="parentArtifactId" >
-      <defaultValue>wes-base-parent</defaultValue>
+      <defaultValue>wes-ta-parent</defaultValue>
     </requiredProperty>
 	<requiredProperty key="parentVersion" >
       <defaultValue>0.1-SNAPSHOT</defaultValue>
