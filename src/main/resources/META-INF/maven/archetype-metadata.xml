@@ -4,19 +4,19 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <requiredProperties>
     <requiredProperty key="componentName" >
-      <defaultValue>Digiwes component name</defaultValue>
+      <defaultValue>${artifactId}-components</defaultValue>
     </requiredProperty>
 	<requiredProperty key="componentDescription" >
       <defaultValue>Digiwes component description</defaultValue>
     </requiredProperty>
 	<requiredProperty key="featureName" >
-      <defaultValue>Digiwes feature name</defaultValue>
+      <defaultValue>${artifactId}-features</defaultValue>
     </requiredProperty>
 	<requiredProperty key="repositoryName" >
-      <defaultValue>Digiwes repository name</defaultValue>
+      <defaultValue>${artifactId}-repository</defaultValue>
     </requiredProperty>
 	<requiredProperty key="projectName" >
-      <defaultValue>Digiwes project name</defaultValue>
+      <defaultValue>${artifactId}</defaultValue>
     </requiredProperty>
 	<requiredProperty key="projectDescription" >
       <defaultValue>Digiwes project description</defaultValue>
